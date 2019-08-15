@@ -1,0 +1,3 @@
+package ${groupId}
+
+class App
